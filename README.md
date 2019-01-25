@@ -38,7 +38,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. What is closure?
 
-> A closure is a function returned from another function that has access to the outer function's scope. They are commonly used to create functions that maintain state (e.g. a counter) or simulate private properties and methods, a concept from other languages.
+> A closure is a function returned from another function that has access to the returning function's scope. They are commonly used to create functions that maintain state (e.g. a counter) or simulate private properties and methods, a concept common in other languages.
 
 4. Describe the four rules of the 'this' keyword.
 
